@@ -8,9 +8,10 @@ These visualizations were created using Python and Plotly as part of a data scie
 
 ## Visualizations
 
-1. [Monthly Temperature Trends](https://github.com/Feifenyx/CS5304-A2-Viz/blob/main/q4_a.html)
-   - Shows monthly average temperatures at Cornell Tech from 1950 to 2021.
-   - Features an interactive slider for year selection.
+1. Monthly Temperature Trends
+This interactive plot shows the monthly average temperatures at Cornell Tech from 1950 to 2021. Use the slider to explore temperature patterns across different years.
+
+<iframe src="q4_a.html" width="100%" height="600px"></iframe>
 
 2. [Annual Temperature Threshold](https://github.com/Feifenyx/CS5304-A2-Viz/blob/main/q4_b.html)
    - Displays the first year when Cornell Tech's annual average temperature exceeded 55°F.
